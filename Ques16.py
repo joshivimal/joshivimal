@@ -12,4 +12,5 @@ if n>0:
     print("Entered list: ")
     print("Entered list: ",a)
     print("Cumulative list: ",Ques16(a))
+    #hello
     
